@@ -1,4 +1,4 @@
 forge "http://forge.puppetlabs.com"
 
-mod chocolatey/chocolatey
+mod 'chocolatey/chocolatey', :latest
 
